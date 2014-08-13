@@ -1,5 +1,9 @@
 # css-transform-string
 
+[![Build Status](https://travis-ci.org/bloodyowl/css-transform-string.svg?branch=1.0.0)](https://travis-ci.org/bloodyowl/css-transform-string)
+
+[![browser support](https://ci.testling.com/bloodyowl/css-transform-string.png)](https://ci.testling.com/bloodyowl/css-transform-string)
+
 a small helper to ease the construction of the css `transform` property value
 
 ## install
